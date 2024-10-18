@@ -1,4 +1,9 @@
 # Estudo de comandos NASM
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnsTdtRQu9EAccLdvEURLvRmeNtwWTkObL5g&s" width=200px Weight=200px>
+
+</p>
+
 ## primeiros comandos
 
 * Programa hello world
